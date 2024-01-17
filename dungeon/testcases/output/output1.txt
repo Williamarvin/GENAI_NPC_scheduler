@@ -1,0 +1,9 @@
+Enter the test number: 
+----------------Begin of test 1----------------
+No data pairs in the Dictionary.
+Insert attack items into the dictionary:
+Axe: 30 Bow: 20 Sword: 50 Crossbow: 30 
+Find Bow in the Dictionary: 20
+Find Spear in the Dictionary: -1
+Find Crossbow in the Dictioanry: 30
+----------------End of test 1----------------

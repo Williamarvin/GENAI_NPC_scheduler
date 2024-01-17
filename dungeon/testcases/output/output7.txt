@@ -1,0 +1,53 @@
+Enter the test number: 
+----------------Begin of test 7----------------
+Apple attacks with Gun, Banana defends with Super Shield
+Apple: 2000, Banana: 2000
+Banana attacks with Spear, Apple defends with Shield
+Apple: 2000, Banana: 2000
+Apple attacks with Gun, Banana defends with Super Shield
+Apple: 2000, Banana: 1900
+Banana attacks with Spear, Apple defends with Shield
+Apple: 1980, Banana: 1900
+Apple attacks with Sword, Banana defends with Helmet
+Apple: 1980, Banana: 1620
+Banana attacks with Spear, Apple defends with Armor
+Apple: 1705, Banana: 1620
+Apple attacks with Sword, Banana defends with Helmet
+Apple: 1705, Banana: 1340
+Banana attacks with Axe, Apple defends with Armor
+Apple: 1525, Banana: 1340
+Apple attacks with Sword, Banana defends with Helmet
+Apple: 1525, Banana: 1050
+Banana attacks with Axe, Apple defends with Armor
+Apple: 1345, Banana: 1050
+Apple attacks with Bow, Banana does not defend.
+Apple: 1345, Banana: 940
+Banana attacks with Axe, Apple defends with Armor
+Apple: 1165, Banana: 940
+Apple attacks with Bow, Banana does not defend.
+Apple: 1165, Banana: 830
+Banana attacks with Axe, Apple defends with Armor
+Apple: 985, Banana: 830
+Apple attacks with Bow, Banana does not defend.
+Apple: 985, Banana: 720
+Banana attacks with Crossbow, Apple defends with Armor
+Apple: 845, Banana: 720
+Apple attacks with Bow, Banana does not defend.
+Apple: 845, Banana: 610
+Banana attacks with Crossbow, Apple defends with Armor
+Apple: 700, Banana: 610
+Apple attacks with Bow, Banana does not defend.
+Apple: 700, Banana: 500
+Banana attacks with Crossbow, Apple does not defend.
+Apple: 550, Banana: 500
+Apple attacks with Bow, Banana does not defend.
+Apple: 550, Banana: 390
+Banana attacks with Crossbow, Apple does not defend.
+Apple: 400, Banana: 390
+Apple attacks with Bow, Banana does not defend.
+Apple: 400, Banana: 280
+Banana attacks with Crossbow, Apple does not defend.
+Apple: 250, Banana: 280
+Apple attacks with Bow, Banana does not defend.
+Apple: 250, Banana: 170
+----------------End of test 7----------------

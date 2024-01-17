@@ -1,0 +1,9 @@
+Enter the test number: 
+----------------Begin of test 3----------------
+Items Array:
+   S: Sword (300), 3 times left.
+   A: Axes (200), 4 times left.
+   G: Bow (100), 8 times left.
+Bow is in the Items Array.
+Crossbow is not in the Items Array.
+----------------End of test 3----------------

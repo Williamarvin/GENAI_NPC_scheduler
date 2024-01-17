@@ -1,0 +1,11 @@
+Enter the test number: 
+----------------Begin of test 2----------------
+*: Bomb 1 (500)
+*: Bomb 2 (300)
+S: Sword (300), 3 times left.
+B: Bow (100), 8 times left.
+O: Shield (20), 80 power left.
+   Defense Pairs: Sword: 50 Axe: 30 
+R: Armor (30), 70 power left.
+   Defense Pairs: Gun: 40 Bow: 50 
+----------------End of test 2----------------

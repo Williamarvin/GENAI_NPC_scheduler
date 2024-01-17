@@ -1,0 +1,13 @@
+Enter the test number: 
+----------------Begin of test 4----------------
+1: Apple (2000)
+Apple's Attack Items:
+   G: Gun (400), 2 times left.
+   A: Axe (200), 4 times left.
+   B: Bow (100), 8 times left.
+Apple's Defense Items:
+   O: Shield (40), 70 power left.
+   Defense Pairs: Sword: 50 Axe: 60 
+   R: Armor (40), 80 power left.
+   Defense Pairs: Gun: 50 Bow: 50 
+----------------End of test 4----------------

@@ -1,0 +1,166 @@
+Enter the test number: 
+----------------Begin of test 8----------------
+1 - - - - - - 
+* - - - - - - 
+- - - O A - - 
+G - B - - S - 
+- - - - - - - 
+- - - - - - * 
+- - - - - - 2 
+Apple's move: 
+- - - - - - - 
+1 - - - - - - 
+- - - O A - - 
+G - B - - S - 
+- - - - - - - 
+- - - - - - * 
+- - - - - - 2 
+Banana's move: 
+- - - - - - - 
+1 - - - - - - 
+- - - O A - - 
+G - B - - S - 
+- - - - - - - 
+- - - - - - 2 
+- - - - - - - 
+Apple's move: 
+INVALID MOVE
+- - - - - - - 
+1 - - - - - - 
+- - - O A - - 
+G - B - - S - 
+- - - - - - - 
+- - - - - - 2 
+- - - - - - - 
+Apple's move: 
+- - - - - - - 
+- - - - - - - 
+1 - - O A - - 
+G - B - - S - 
+- - - - - - - 
+- - - - - - 2 
+- - - - - - - 
+Banana's move: 
+INVALID MOVE
+- - - - - - - 
+- - - - - - - 
+1 - - O A - - 
+G - B - - S - 
+- - - - - - - 
+- - - - - - 2 
+- - - - - - - 
+Banana's move: 
+- - - - - - - 
+- - - - - - - 
+1 - - O A - - 
+G - B - - S - 
+- - - - - - 2 
+- - - - - - - 
+- - - - - - - 
+Apple's move: 
+- - - - - - - 
+- - - - - - - 
+- - - O A - - 
+1 - B - - S - 
+- - - - - - 2 
+- - - - - - - 
+- - - - - - - 
+Banana's move: 
+- - - - - - - 
+- - - - - - - 
+- - - O A - - 
+1 - B - - S 2 
+- - - - - - - 
+- - - - - - - 
+- - - - - - - 
+Apple's move: 
+- - - - - - - 
+- - - - - - - 
+- - - O A - - 
+- 1 B - - S 2 
+- - - - - - - 
+- - - - - - - 
+- - - - - - - 
+Banana's move: 
+- - - - - - - 
+- - - - - - - 
+- - - O A - - 
+- 1 B - - 2 - 
+- - - - - - - 
+- - - - - - - 
+- - - - - - - 
+Apple's move: 
+- - - - - - - 
+- - - - - - - 
+- - - O A - - 
+- - 1 - - 2 - 
+- - - - - - - 
+- - - - - - - 
+- - - - - - - 
+Banana's move: 
+- - - - - - - 
+- - - - - - - 
+- - - O A - - 
+- - 1 - 2 - - 
+- - - - - - - 
+- - - - - - - 
+- - - - - - - 
+Apple's move: 
+- - - - - - - 
+- - - - - - - 
+- - 1 O A - - 
+- - - - 2 - - 
+- - - - - - - 
+- - - - - - - 
+- - - - - - - 
+Banana's move: 
+- - - - - - - 
+- - - - - - - 
+- - 1 O 2 - - 
+- - - - - - - 
+- - - - - - - 
+- - - - - - - 
+- - - - - - - 
+Apple's move: 
+- - - - - - - 
+- - - - - - - 
+- - - 1 2 - - 
+- - - - - - - 
+- - - - - - - 
+- - - - - - - 
+- - - - - - - 
+Banana's move: 
+Banana attacks with Sword, Apple defends with Shield
+Apple: 1370, Banana: 1450
+Apple attacks with Gun, Banana does not defend.
+Apple: 1370, Banana: 1050
+Banana attacks with Sword, Apple defends with Shield
+Apple: 1090, Banana: 1050
+Apple attacks with Gun, Banana does not defend.
+Apple: 1090, Banana: 650
+Banana attacks with Sword, Apple defends with Shield
+Apple: 810, Banana: 650
+Apple attacks with Bow, Banana does not defend.
+Apple: 810, Banana: 540
+Banana attacks with Axe, Apple defends with Shield
+Apple: 640, Banana: 540
+Apple attacks with Bow, Banana does not defend.
+Apple: 640, Banana: 430
+Banana attacks with Axe, Apple defends with Shield
+Apple: 450, Banana: 430
+Apple attacks with Bow, Banana does not defend.
+Apple: 450, Banana: 320
+Banana attacks with Axe, Apple does not defend.
+Apple: 250, Banana: 320
+Apple attacks with Bow, Banana does not defend.
+Apple: 250, Banana: 210
+Banana attacks with Axe, Apple does not defend.
+Apple: 50, Banana: 210
+Apple attacks with Bow, Banana does not defend.
+Apple: 50, Banana: 100
+Banana does not attack.
+Apple: 50, Banana: 100
+Apple attacks with Bow, Banana does not defend.
+Apple: 50, Banana: -10
+Apple wins.
+----------------End of test 8----------------

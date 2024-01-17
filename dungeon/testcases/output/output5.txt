@@ -1,0 +1,152 @@
+Enter the test number: 
+----------------Begin of test 5----------------
+1 - - - - - - 
+* - - - - - - 
+- O - - - - A 
+G - B - - S - 
+- - - - - - R 
+- - - - - - * 
+- - - - - 2 - 
+Apple's move: 
+INVALID MOVE
+1 - - - - - - 
+* - - - - - - 
+- O - - - - A 
+G - B - - S - 
+- - - - - - R 
+- - - - - - * 
+- - - - - 2 - 
+Apple's move: 
+- - - - - - - 
+1 - - - - - - 
+- O - - - - A 
+G - B - - S - 
+- - - - - - R 
+- - - - - - * 
+- - - - - 2 - 
+Orange's move: 
+INVALID MOVE
+- - - - - - - 
+1 - - - - - - 
+- O - - - - A 
+G - B - - S - 
+- - - - - - R 
+- - - - - - * 
+- - - - - 2 - 
+Orange's move: 
+- - - - - - - 
+1 - - - - - - 
+- O - - - - A 
+G - B - - S - 
+- - - - - - R 
+- - - - - 2 * 
+- - - - - - - 
+Apple's move: 
+- - - - - - - 
+- - - - - - - 
+1 O - - - - A 
+G - B - - S - 
+- - - - - - R 
+- - - - - 2 * 
+- - - - - - - 
+Orange's move: 
+- - - - - - - 
+- - - - - - - 
+1 O - - - - A 
+G - B - - S - 
+- - - - - 2 R 
+- - - - - - * 
+- - - - - - - 
+Apple's move: 
+- - - - - - - 
+- - - - - - - 
+- O - - - - A 
+1 - B - - S - 
+- - - - - 2 R 
+- - - - - - * 
+- - - - - - - 
+Orange's move: 
+- - - - - - - 
+- - - - - - - 
+- O - - - - A 
+1 - B - - 2 - 
+- - - - - - R 
+- - - - - - * 
+- - - - - - - 
+Apple's move: 
+- - - - - - - 
+- - - - - - - 
+- O - - - - A 
+- 1 B - - 2 - 
+- - - - - - R 
+- - - - - - * 
+- - - - - - - 
+Orange's move: 
+- - - - - - - 
+- - - - - - - 
+- O - - - - A 
+- 1 B - 2 - - 
+- - - - - - R 
+- - - - - - * 
+- - - - - - - 
+Apple's move: 
+- - - - - - - 
+- - - - - - - 
+- O - - - - A 
+- - 1 - 2 - - 
+- - - - - - R 
+- - - - - - * 
+- - - - - - - 
+Orange's move: 
+- - - - - - - 
+- - - - - - - 
+- O - - - - A 
+- - 1 - - 2 - 
+- - - - - - R 
+- - - - - - * 
+- - - - - - - 
+Apple's move: 
+- - - - - - - 
+- - - - - - - 
+- O - - - - A 
+- 1 - - - 2 - 
+- - - - - - R 
+- - - - - - * 
+- - - - - - - 
+Orange's move: 
+- - - - - - - 
+- - - - - - - 
+- O - - - 2 A 
+- 1 - - - - - 
+- - - - - - R 
+- - - - - - * 
+- - - - - - - 
+Apple's move: 
+- - - - - - - 
+- - - - - - - 
+- 1 - - - 2 A 
+- - - - - - - 
+- - - - - - R 
+- - - - - - * 
+- - - - - - - 
+Orange's move: 
+
+Piece(2, 1):
+1: Apple (1500)
+Apple's Attack Items:
+   G: Gun (400), 2 times left.
+   B: Bow (100), 8 times left.
+Apple's Defense Items:
+   O: Shield (10), 100 power left.
+   Defense Pairs: Sword: 20 Axe: 30 
+
+Piece(2, 6):
+A: Axe (200), 4 times left.
+
+Piece(1, 0):
+Empty Piece
+
+Piece(3, 0):
+Empty Piece
+
+----------------End of test 5----------------
